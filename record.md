@@ -7,3 +7,4 @@
     - 先读pinSage，了解图CF的结构
     - Self-supervised Graph Learning for Recommendation首次将对比学习引入到图中
 - 7.3 技术周会分享了新的网络架构SSM：Mamba: Linear-Time Sequence Modeling with Selective State Spaces，应该先学习graph-CF
+- 7.10 graph-cf的论文读完，之后可以再看下youtube视频，本周的论文分享：actions-speak-louder-than-words
